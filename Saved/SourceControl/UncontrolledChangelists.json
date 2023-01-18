@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Poiss/OneDrive/Desktop/Fighting_Game/perculeez_game/Content/Blueprints/UI/MainMenu/WB_MainMenu.uasset",
+				"C:/Users/Poiss/OneDrive/Desktop/Fighting_Game/perculeez_game/Content/Blueprints/UI/MainMenu/Custom/WB_FightingMenu.uasset"
+			]
+		}
+	]
+}
